@@ -1,0 +1,16 @@
+.review-image img {
+    height: 400px;
+    width: 400px;
+    border: 2px;
+    border-radius: 50%;
+    box-shadow: 2px 8px 15px grey;
+}
+.review {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #cbcbcb;
+    transition: .5s;
+}
+.review:hover {
+    box-shadow: 3px 3px 5px #acacac;
+}

@@ -1,0 +1,155 @@
+[
+    {
+      "name": "Cajun spiced fish tacos",
+      "price": 20,
+      "ratings": 4.4,
+      "ratingsCount": 725,
+      "img": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+      "description": "This blackened fish tacos recipe is easily manageable for a weeknight dinner. 'Blackening' is a flavorful technique for cooking fish, and it's fast. The slaw is creamy, crunchy, spicy, and wonderful, with shredded red cabbage and white onions tossed with a puree of sour cream, jalapeño peppers, cilantro, and lime juice. Blackened fish is a Cajun dish invented in late 1970s by New Orleans chef Paul Prudhomme when he was head chef at Commander's Palace. His blackening technique was an instant hit in the South and quickly spread in popularity to the rest of the country.",
+      "comment":"If we go to McDonald's I just have to get a big mac, I love that it has 2 patties and I can still eat it, sometimes a bit messy but always good and can't go wrong with the big mac sauce.",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Rabbina Ringing",  
+      "profile": "https://i.imgur.com/veekP9S.jpg"
+    },
+    {
+      "name": "Escovitch Fish",
+      "price": 10,
+      "ratings": 5.0,
+      "ratingsCount": 375,
+      "img": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+      "description": "Jamaican Escovitch fish recipe is a must-try! This Escovitch fish recipe is crispy fried fish topped with a spicy pickled vegetable medley. So easy to make and it taste amazingly good. A great dish especially if you like spicy food! Escovitch fish is crispy fried fish soaked in a spicy pickled sauce made with lots of white onion, carrot strips, pimento berries (allspice) and scotch bonnet pepper. You can also add bell pepper to the vegetable medley but I did not for this recipe.",
+      "comment":"I grew up eating the big mac or the mcchicken from Mcdonalds. Definitely one of my top two burgers that I can never seem to get sick of but I hate that its almost $6 for the burger now. Definitely not worth it, but if there are coupons or promotions, I usually pick the big mac.",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Allie Grater",  
+      "profile": "https://i.imgur.com/RyI0eIV.png"
+    },
+    {
+      "name": "Fish pie",
+      "price": 22,
+      "ratings": 4.8,
+      "ratingsCount": 372,
+      "img": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+      "description": "Fish pie is usually made with fresh and smoked fish (for example cod, haddock, salmon, or halibut) or seafood in a white sauce[1] or cheddar cheese sauce made using the milk the fish was poached in. Hard-boiled eggs are a common additional ingredient.[citation needed] Parsley or chives are sometimes added to the sauce. It is oven-baked in a deep dish but is not usually made with the shortcrust or puff pastry casing that is associated with most savory pies (e.g. steak and kidney pie).",
+      "comment":"Two all beef patties and that special sauce go perfect together. The Big Mac is now my all time favorite I thought I would have to cut it in half but it was too delicious I couldn’t save it or share it. Definitely going back again for another this week",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Lois Di Nominator",  
+      "profile": "https://i.imgur.com/vsL6dk9.jpg"
+    },
+    
+    {
+      "name": "Chicken Basquaise",
+      "price": 420,
+      "ratings": 3.9,
+      "ratingsCount": 525,
+      "img": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+      "description": "This braised chicken recipe is emblematic of the Basque region’s affection for colorful, peppery stews and is adapted from a version served by Spanish chef Sébastien Gravé. While paprika works in a pinch, it’s worth seeking out the flakier, lightly spicy, and more enigmatic Espelette pepper which is traditional in the region. Find it in your local spice shop, or order it online.",
+      "comment":"I love everything about mc donalds from fries tk burgers. It always make my day. Big Mac is my toplist when it comes tk their Burger. I will never get tired of it",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Anita Letterback",  
+      "profile": "https://i.imgur.com/veekP9S.jpg"
+    },
+    {
+      "name": "Chicken Couscous",
+      "price": 53,
+      "ratings": 5.0,
+      "ratingsCount": 25,
+      "img": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+      "description": "Take a break from pasta, rice, and potatoes with this quick chicken couscous bowl. Made with chicken breast (or thighs, or even leftover chicken!) and diced veggies of your choice, it's an impressive meal that takes just minutes to make once all the ingredients are prepped. The chicken is moist and tender, the couscous is light yet satisfying, and the veggies add color, flavor, and texture. It can be eaten at any temperature and would be perfect to pack for a picnic.",
+      "comment":"The Big Mac is great unless you are looking to be healthy. They seem to be getting saltier but overall are a great mix of sauce, beef, and bun.the Big Mac is much larger both in height and circumference than a regular burger from McDonald’s.",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Hope Furaletter",  
+      "profile": "https://i.imgur.com/MTJ60Jh.jpg"
+    },
+    {
+      "name": "Mbuzi Choma",
+      "price": 66,
+      "ratings": 5.0,
+      "ratingsCount": 425,
+      "img": "https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg",
+      "description": "The very idea of cooking with your dad may seem a bit odd for those who are not accustomed to the sight of their dads in the kitchen. This is largely because dads typically tend to stay away from the kitchen. We will be forgiven for mistaking this trend for toxic masculinity, when in real sense it’s probably because they might lack the confidence.",
+      "comment":"Pas besoin de présentation , le Bigmac est le classique du McDo et une valeur sûre. Je suis du type qui aime bien essayer les nouveautés maisnje reviens toujours au BigMac quand je veux un bon hamburger !",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Rose Bush",  
+      "profile": "https://i.imgur.com/Gta1zDX.jpg"
+    },
+    {
+      "id": "108",
+      "name": "BeaverTails",
+      "price": 35,
+      "ratings": 4.1,
+      "ratingsCount": 3725,
+      "img": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg",
+      "description": "BeaverTails (French: Queues de Castor) is a Canadian restaurant chain, specializing in pastries known as BeaverTails, that is operated by BeaverTails Canada Inc. Its namesake products are fried dough pastries, individually hand-stretched to resemble beaver's tails, topped with either sweet or savoury ingredients. The chain originated in Killaloe, Ontario in 1978 and opened its first permanent store in Ottawa two years later. By 2018, it had 140 franchise and licence locations in six countries: Canada (the Maritimes, Newfoundland and Labrador, Ontario, Manitoba, Alberta, British Columbia and Quebec, where the franchise is called, the United States (New Hampshire, Michigan, Wisconsin, Tennessee, Arkansas and Utah), the United Arab Emirates, Mexico, France, and Japan.",
+      "comment":"I absolutely love this burger. From the sesame seed bun to the pickles, sauce, onions and cheese it is a delicious choice. Always leaves me full and I enjoy that in a burger",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Greg Arias",  
+      "profile": "https://i.imgur.com/TIFIVsn.jpg"
+    },
+    {
+      "id": "109",
+      "name": "Canadian Butter Tart",
+      "price": 26,
+      "ratings": 3.8,
+      "ratingsCount": 3725,
+      "img": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
+      "description": "A butter tart (French: tarte au beurre) is a type of small pastry tart highly regarded in Canadian cuisine and considered one of Canada's quintessential treats. The sweet tart consists of a filling of butter, sugar, syrup, and egg, baked in a pastry shell until the filling is semi-solid with a crunchy top.[1] The butter tart should not be confused with butter pie (a savoury pie from the Preston area of Lancashire, England) or with bread and butter pudding. Recipes for the butter tart vary according to the families baking them. Because of this, the appearance and physical characteristics of the butter tart – the firmness of its pastry, or the consistency of its filling – also vary.",
+      "comment":"Had this for the first time today and it was my least favorite McDonald's offering. Drowning in sauce that added a questionable flavor to the beef that hid in the bread that hid in the lettuce. Reminded me of eating burgers in the UK, which is not a good thing.",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Simon Sais",  
+      "profile": "https://i.imgur.com/SksGgo3.jpg"
+    },
+    {
+      "id": "110",
+      "name": "Pate Chinoi",
+      "price": 420,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg",
+      "description": "The dish is made with layered ground beef (sometimes mixed with sautéed diced onions) on the bottom layer, canned corn (either whole-kernel, creamed, or a mixture) for the middle layer, and mashed potatoes on top. Seasonings may be added to the top. Variations may include reversing the layering of ingredients with potatoes at the bottom, then meat, topped with cream corn; adding diced bell peppers to the ground beef, and serving the dish with pickled eggs or beets. Once served, ketchup can be added.",
+      "comment":"There is nothing better than a Big Mac. Except the Double Big Mac..lol the secret sauce is to die for. Every bite is as good as the last its always a treat to get one.",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Isabelle Ringing",  
+      "profile": "https://i.imgur.com/hEqzOqN.png"
+    },
+    {
+      "id": "111",
+      "name": "Battenberg Cake",
+      "price": 75,
+      "ratings": 4.7,
+      "ratingsCount": 325,
+      "img": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+      "description": "Battenberg[1] or Battenburg (with either 'cake' or 'square' added to the end) is a light sponge cake with different sections held together with jam. The cake is covered in marzipan and, when cut in cross-sections, displays a distinctive two-by-two check pattern alternately colored pink and yellow. The large chequered patterns on emergency vehicles in the UK are officially referred to as Battenburg markings because of their resemblance to the cake.",
+      "comment":" I don’t believe giving anything a 0…. I would still eat a Big Mac… I may in fact stay away from the fries but I would eat a Big Mac. That doesn’t mean I like it",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Gene Eva Convenshun",  
+      "profile": "https://i.imgur.com/rJpuBKw.jpg"
+    },
+    {
+      "id": "112",
+      "name": "Big Mac",
+      "price": 40,
+      "ratings": 2.9,
+      "ratingsCount": 25,
+      "img": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+      "description": "The Big Mac is a hamburger sold by the international fast food restaurant chain McDonald's. It was introduced in the Greater Pittsburgh area in 1967 and nationwide in 1968. It is one of the company's flagship products and signature dishes. The Big Mac was created by Jim Delligatti, an early Ray Kroc franchisee, who was operating several restaurants in the Pittsburgh area. It was invented in the kitchen of Delligatti's first McDonald's franchise, located on McKnight Road in suburban Ross.",
+      "comment":"I just had a big Mac for the first time in many years. It was undoubtedly the worst burger I’ve ever had. A hockey puck meat patty, artificial cheese, or a really sick cow, stale bread and wilted lettuce. A true “gut buster”.",
+      "shipping": 1,
+      "quantity": 0,
+      "user": "Lynne Gwistic",  
+      "profile": "https://i.imgur.com/3OUIKWm.jpg"
+    }
+  
+  ]
+  
+  
+  

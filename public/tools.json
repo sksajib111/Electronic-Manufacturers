@@ -1,0 +1,69 @@
+[
+    {
+"name":"capacitor",
+"desc":"A capacitor is a device that stores electrical energy in an electric field. It is a passive electronic component with two terminals.",
+"img":"https://i.ibb.co/QCrj5Sj/pexels-sergei-starostin-6477206.jpg",
+"minOrderQuantity":"5",
+"inStock":"50",
+"price":"21000"
+    },
+    {
+"name":"connectors",
+"desc":"An electrical connector is an electromechanical device used to create an electrical connection between parts of an electrical circuit, or between different",
+"img":"https://i.ibb.co/DD7pw3d/pexels-karolina-grabowska-4219863.jpg",
+"minOrderQuantity":"4",
+"inStock":"40",
+"price":"31000"
+
+    },
+    {
+"name":"inductor",
+"desc":"An Inductor, also called a choke, is another passive type electrical component consisting of a coil of wire designed to take advantage of this relationship by",
+"img":"https://i.ibb.co/jJ0tNjp/pexels-ragga-muffin-4584612.jpg",
+"minOrderQuantity":"4",
+"inStock":"40",
+"price":"41000"
+
+    },
+    {
+"name":"insulator",
+"desc":"An insulator is a material that does not conduct electrical current. Insulating materials include paper, plastic, rubber, glass and air. Vacuum is also an insulator, but is not actually a material. ",
+"img":"https://i.ibb.co/bB6B7DJ/pexels-thisisengineering-3912373.jpg",
+"minOrderQuantity":"4",
+"inStock":"40",
+"price":"41000"
+    },
+    {
+"name":"processor",
+"desc":"A processor (CPU) is the logic circuitry that responds to and processes the basic instructions that drive a computer. The CPU is seen as the main and most crucial integrated circuitry (IC) chip in a computer, as it is responsible for interpreting most of computers commands",
+"img":"https://i.ibb.co/7bcDPjk/pexels-pok-rie-1432675.jpg",
+"minOrderQuantity":"4",
+"inStock":"40",
+"price":"51000"
+    },
+    {
+"name":"machines",
+"desc":"A processor (CPU) is the logic circuitry that responds to and processes the basic instructions that drive a computer. The CPU is seen as the main and most crucial integrated circuitry (IC) chip in a computer, as it is responsible for interpreting most of computers commands",
+"img":"https://i.ibb.co/w7ZDVfx/istockphoto-1323305545-1024x1024.jpg",
+"minOrderQuantity":"4",
+"inStock":"40",
+"price":"51000"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
