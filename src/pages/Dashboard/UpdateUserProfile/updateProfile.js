@@ -1,14 +1,11 @@
-import React, { useEffect, useRef, useState } from "react";
+import React from "react";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { toast } from "react-toastify";
 import auth from "../../../Firebase.init";
 
 const MyProfile = () => {
   const [user] = useAuthState(auth);
-  // const [tool, setTool] = useState({});
-
-  // form submit
-
+  
   const handleSubmit = (e) => {
     e.preventDefault();
 

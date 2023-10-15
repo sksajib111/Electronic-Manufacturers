@@ -9,8 +9,6 @@ const Tool = () => {
   const { id } = useParams();
   const [user] = useAuthState(auth);
   const [tool, setTool] = useState({});
-  const [totalPrice, setTotalPrice] = useState(0);
-  // const [orders, setOrders] = useState([]);
 
   useEffect(() => {
     const url = `https://evening-ridge-50687.herokuapp.com/tool/${id}`;
